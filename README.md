@@ -1,8 +1,9 @@
 # pr3
 Практическая работа №3
-Хмырин Алексей Андреевич
+Хмырин Алексей Андреевич ЭФБО-02-22
 
-![Uploading Запись 2024-10-01 095342.gif…]()
+![Запись 2024-10-01 095342](https://github.com/user-attachments/assets/ec53c4af-c110-47a5-a307-26520c574ee4)
+
 Ссылка на гугл диск, елси гифка не прогружается: https://drive.google.com/file/d/1P-8WQhvf1rHr6JsKrBtWjiC_PizWCJjC/view?usp=sharing
 A new Flutter project.
 
