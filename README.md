@@ -1,5 +1,6 @@
 # pr3
-
+Практическая работа номер 3
+Хмырин Алексей Андреевич
 A new Flutter project.
 
 ## Getting Started
