@@ -1,7 +1,7 @@
 # pr3
 Практическая работа номер 3
 Хмырин Алексей Андреевич
-<iframe src="https://giphy.com/embed/X2lZ2fmAd1giSbhXyL" width="220" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/X2lZ2fmAd1giSbhXyL">via GIPHY</a></p>
+![Uploading Запись 2024-10-01 095342.gif…]()
 
 A new Flutter project.
 
